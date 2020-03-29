@@ -39,8 +39,8 @@ baseurl: "/logical_musings" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: https://twitter.com/anti_social_me
-    github: https://github.com/binarycache
+    twitter: anti_social_me
+    github: binarycache
 
 # Set this to true to get LaTeX math equation support
 use_math: true
