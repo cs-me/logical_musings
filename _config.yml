@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Logical Musings
-description: I am a research scholar pursuing joint PhD at RuG and IIT Roorkee. This blog is an attempt at meta learning via sharing my insights. Here, you will find technical blog posts related to my research which includes Depression, Deep Learning, EEG, Brain Connectivity, Cognitive Modelling etc.
+description:  Personal Blog for sharing posts about ML/DL/EEG/Depression.
 github_username: binarycache
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "logical_musings"
